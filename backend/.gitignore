@@ -1,0 +1,37 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+
+# React specific
+# /public/env-config.js
+
+# IDE files
+.idea/
+.vscode/
+
+# Miscellaneous
+*.bak
+*.swp
+
+# Temporary files
+/tmp/
+*.tmp
+
+# Coverage
+coverage/
